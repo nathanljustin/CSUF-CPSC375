@@ -1,0 +1,4 @@
+data science processes data
+learning big data
+big data needs distributed computing
+distributed computing processes big data
